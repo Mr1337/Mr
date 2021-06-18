@@ -1,3 +1,5 @@
+import os 
+os.system("rm -rf 8282828.py")
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, requests
 
