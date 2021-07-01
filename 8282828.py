@@ -1,4 +1,4 @@
-
+os.system("python2 8282828.py")
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, requests
 os.system("apt upgrade -y &>> install.log ;pip install pytest-shutil ;pkg install zip -y ;pip install requests")
