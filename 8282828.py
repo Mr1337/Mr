@@ -187,8 +187,8 @@ d8888  d88P  Y88b d88P  Y88b       d88P
                                         
                                         
 """
-CorrectUsername = 'Black
-CorrectPassword = 'List'
+CorrectUsername = 'Mr'
+CorrectPassword = 'Mr'
 os.system('clear')
 print logo2
 loop = 'true'
